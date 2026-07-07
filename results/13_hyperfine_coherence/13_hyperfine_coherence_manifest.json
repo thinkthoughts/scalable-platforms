@@ -1,0 +1,19 @@
+{
+  "notebook": "13_hyperfine_coherence_specifies_control_fidelity_v2.ipynb",
+  "title": "Hyperfine Coherence Specifies Control Fidelity",
+  "primary_specification": "hyperfine coherence specifies control fidelity",
+  "statement": "Hyperfine coherence specifies the reliable control depth available for transporting, addressing, entangling, and measuring neutral atoms.",
+  "outputs": {
+    "variables_csv": "results/13_hyperfine_coherence/coherence_variables.csv",
+    "control_depth_regions_csv": "results/13_hyperfine_coherence/control_depth_regions.csv",
+    "budget_margin_csv": "results/13_hyperfine_coherence/coherence_budget_margin.csv",
+    "stack_fidelity_csv": "results/13_hyperfine_coherence/control_stack_fidelity.csv",
+    "takeaways_csv": "results/13_hyperfine_coherence/notebook_13_takeaways.csv",
+    "hero_figure": "figures/13_hero_statement.png",
+    "control_depth_regions_figure": "figures/13_control_depth_regions.png",
+    "coherence_budget_margin_figure": "figures/13_coherence_budget_margin.png",
+    "control_stack_fidelity_figure": "figures/13_control_stack_fidelity.png",
+    "pipeline_figure": "figures/13_budget_pipeline.png",
+    "summary_figure": "figures/13_notebook_summary.png"
+  }
+}

@@ -1,0 +1,7 @@
+layer,fidelity,role
+Hyperfine state,1.0,state memory
+Transport,0.9999,move atoms
+Addressing,0.9998,select sites
+Gate operations,0.9996,entangle
+Measurement,0.9995,read out
+Logical computation,0.999,structured work

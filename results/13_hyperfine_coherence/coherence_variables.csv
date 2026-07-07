@@ -1,0 +1,9 @@
+symbol,meaning,role
+T_coh,available hyperfine coherence time,engineering budget
+t_operation,characteristic control-operation time,budget cost
+D_control,reliable control depth,available useful control
+F_transport,transport fidelity,state preservation during motion
+F_address,addressing fidelity,selective control
+F_gate,gate fidelity,logical interaction quality
+F_measure,measurement fidelity,readout quality
+M_margin,remaining coherence margin,fault-tolerance headroom
