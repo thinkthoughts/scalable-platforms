@@ -1,0 +1,5 @@
+region,control_depth,transport_fidelity
+Calibration,0.18,0.2
+Experimental operation,0.36,0.42
+Scalable processor,0.6,0.64
+Fault-tolerant architecture,0.84,0.86

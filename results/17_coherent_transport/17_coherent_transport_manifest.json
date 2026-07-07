@@ -1,0 +1,20 @@
+{
+  "notebook": "17_coherent_transport_preserves_control_fidelity_v2.ipynb",
+  "title": "Coherent Transport Preserves Control Fidelity",
+  "primary_specification": "coherent transport preserves control fidelity",
+  "statement": "Coherent transport preserves control fidelity by moving neutral-atom qubits while maintaining stored state information.",
+  "outputs": {
+    "variables_csv": "results/17_coherent_transport/transport_variables.csv",
+    "budget_csv": "results/17_coherent_transport/transport_error_budget.csv",
+    "regions_csv": "results/17_coherent_transport/transport_design_regions.csv",
+    "takeaways_csv": "results/17_coherent_transport/notebook_17_takeaways.csv",
+    "hero_figure": "figures/17_hero_statement.png",
+    "pipeline_figure": "figures/17_transport_pipeline.png",
+    "layout_figure": "figures/17_processor_layout.png",
+    "budget_figure": "figures/17_transport_error_budget.png",
+    "state_preservation_figure": "figures/17_transport_state_preservation.png",
+    "scaling_figure": "figures/17_scaling_path.png",
+    "surface_figure": "figures/17_design_surface.png",
+    "summary_figure": "figures/17_notebook_summary.png"
+  }
+}

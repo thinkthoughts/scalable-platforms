@@ -1,0 +1,8 @@
+symbol,meaning,role
+F_transport,transport fidelity,state preservation during motion
+D_control,reliable control depth,useful control after motion
+epsilon_motion,motional excitation error,transport cost
+epsilon_heating,heating during motion,coherence cost
+epsilon_loss,atom loss during transport,layout cost
+epsilon_phase,phase error accumulated in motion,state-memory cost
+M_transport,transport fidelity margin,fault-tolerance headroom

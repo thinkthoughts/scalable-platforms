@@ -1,0 +1,4 @@
+scenario,motion,heating,loss,phase,margin
+large margin,0.1,0.05,0.04,0.06,0.75
+medium margin,0.18,0.1,0.08,0.14,0.5
+small margin,0.28,0.16,0.14,0.22,0.2
