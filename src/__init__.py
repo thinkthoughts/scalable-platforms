@@ -1,1 +1,1 @@
-"""Shared utilities for the Scalable Platforms notebooks."""
+"""Shared utilities for Scalable Platforms notebooks."""
