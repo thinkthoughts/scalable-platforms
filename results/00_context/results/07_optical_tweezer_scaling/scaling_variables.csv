@@ -1,8 +1,0 @@
-symbol,meaning,role
-N_sites,available optical tweezer sites,array scale
-N_atoms,trapped neutral atoms,available qubits
-f,filling fraction,site occupancy
-N_move,atoms moved during rearrangement,transport workload
-T_move,time per move operation,transport latency
-T_coh,useful coherence time,coherence budget
-R_control,control overhead,scaling constraint
