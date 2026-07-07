@@ -1,0 +1,7 @@
+constraint,computation,metrology
+decoherence,"state errors during storage, transport, and gates",loss of phase information during interrogation
+noise,"laser, magnetic, motional, and technical fluctuations","line pulling, field sensitivity, readout noise"
+heating,motional excitation during rearrangement or transport,trap-induced temperature and motional shifts
+loss,"atom loss, imaging loss, finite filling","molecule loss, trap lifetime, detection loss"
+crosstalk,unwanted addressing of neighboring sites,unwanted coupling between internal states
+stability,"array, laser, and control stability across large systems","frequency, wavelength, and systematic stability"

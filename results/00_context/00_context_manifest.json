@@ -1,0 +1,20 @@
+{
+  "notebook": "00_context.ipynb",
+  "title": "Context: Coherence Specifies Scalable Platforms",
+  "primary_specification": "coherence specifies scalable platforms",
+  "statement": "Coherence is an engineering resource for scalable computation and precision measurement.",
+  "outputs": {
+    "seminar_context": "results/00_context/seminar_context.json",
+    "platform_branches_csv": "results/00_context/platform_branches.csv",
+    "engineering_constraints_csv": "results/00_context/engineering_constraints.csv",
+    "performance_quantities_csv": "results/00_context/platform_performance_quantities.csv",
+    "roadmap_csv": "results/00_context/notebook_roadmap.csv",
+    "references_json": "results/00_context/references.json",
+    "specification_chain_figure": "figures/00_specification_chain.png",
+    "two_platforms_figure": "figures/00_two_platforms.png",
+    "constraints_figure": "figures/00_engineering_constraints.png",
+    "performance_figure": "figures/00_measured_performance.png",
+    "roadmap_figure": "figures/00_notebook_roadmap.png",
+    "site_stub": "site/reports/00/00.html"
+  }
+}

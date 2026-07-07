@@ -1,0 +1,9 @@
+branch,quantity,role
+computation,coherence time,preserve state information while operations accumulate
+computation,transport efficiency,move atoms without losing usable state information
+computation,gate fidelity,support logical operations and error correction
+computation,filling fraction,scale arrays without excessive rearrangement overhead
+metrology,clock uncertainty,bound systematic and statistical error
+metrology,frequency shift,"identify trap, field, and motional perturbations"
+metrology,linewidth,resolve stable vibrational transitions
+metrology,trap lifetime,maintain molecules through interrogation

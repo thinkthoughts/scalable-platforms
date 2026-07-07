@@ -1,0 +1,29 @@
+{
+  "seminar": {
+    "speaker": "Kon Leung",
+    "affiliation": "Caltech",
+    "date": "2026-07-07",
+    "time": "2:00pm\u20133:00pm",
+    "location": "JILA X317",
+    "repository": "scalable-platforms",
+    "statement": "Coherence Specifies Scalable Platforms"
+  },
+  "repository": {
+    "name": "scalable-platforms",
+    "url": "https://github.com/thinkthoughts/scalable-platforms"
+  },
+  "lab_report": {
+    "path": "/scalable-platforms/00.html",
+    "title": "00 \u2014 Coherence Specifies Scalable Platforms"
+  },
+  "keywords": [
+    "coherence",
+    "scalable platforms",
+    "neutral atoms",
+    "optical tweezers",
+    "molecules",
+    "magic wavelength",
+    "precision metrology",
+    "error correction"
+  ]
+}

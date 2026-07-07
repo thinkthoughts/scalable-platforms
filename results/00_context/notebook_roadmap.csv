@@ -1,0 +1,10 @@
+notebook,specification,question
+00_context,coherence as resource,Why does coherence specify scalable platforms?
+07_optical_tweezer_scaling,array scale,What changes when arrays grow from hundreds to thousands of atoms?
+13_hyperfine_coherence,long coherence,How does storage time become an engineering resource?
+17_coherent_transport,moving without losing state,How does transport preserve useful information?
+23_error_correction,logical pathways,Which constraints matter for error correction?
+29_magic_wavelength_engineering,trap-induced shift control,How does trapping preserve molecular vibrations?
+37_molecular_clocks,precision timekeeping,How does vibrational coherence become a clock?
+41_coherence_resource,shared resource,What do computation and metrology share?
+47_scalable_platforms,unified roadmap,What next-step map connects the branches?
