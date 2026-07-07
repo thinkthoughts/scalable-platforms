@@ -1,0 +1,7 @@
+layer,specification
+array scale,more sites expand possible layouts
+filling fraction,site occupancy controls usable atom count
+rearrangement,sorting converts random loading into useful layouts
+transport,movement must preserve state information
+control overhead,transport must fit inside the coherence budget
+error correction,useful scale points toward logical layouts
