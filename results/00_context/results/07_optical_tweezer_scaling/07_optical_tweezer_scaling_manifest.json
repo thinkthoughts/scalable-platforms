@@ -1,0 +1,21 @@
+{
+  "notebook": "07_optical_tweezer_scaling.ipynb",
+  "title": "Optical Tweezer Scaling",
+  "primary_specification": "array scale specifies control constraints",
+  "statement": "Scaling an array means scaling control, not only increasing atom count.",
+  "outputs": {
+    "scaling_variables": "results/07_optical_tweezer_scaling/scaling_variables.csv",
+    "capacity_csv": "results/07_optical_tweezer_scaling/tweezer_capacity.csv",
+    "filling_csv": "results/07_optical_tweezer_scaling/filling_fraction_curve.csv",
+    "overhead_csv": "results/07_optical_tweezer_scaling/transport_overhead.csv",
+    "budget_csv": "results/07_optical_tweezer_scaling/coherence_budget.csv",
+    "summary_csv": "results/07_optical_tweezer_scaling/notebook_07_summary.csv",
+    "hero_figure": "figures/07_hero_statement.png",
+    "chain_figure": "figures/07_array_scaling_chain.png",
+    "capacity_figure": "figures/07_tweezer_capacity.png",
+    "filling_figure": "figures/07_filling_fraction.png",
+    "overhead_figure": "figures/07_transport_overhead.png",
+    "pipeline_figure": "figures/07_scaling_constraints_v2.png",
+    "budget_figure": "figures/07_engineering_budget.png"
+  }
+}
